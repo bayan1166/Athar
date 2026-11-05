@@ -1,0 +1,5 @@
+claim_id,claim_text,source_event,start_s,end_s,camera_ids,preliminary_label,review_status
+HOME1_000_C01,A person sits down on the sofa.,Sitdown,3.247,6.133,View2;View3,SUPPORTED,PENDING
+HOME1_000_C02,A person opens a book.,ReadBook,13.5,15.0,View2;View3,SUPPORTED,PENDING
+HOME1_000_C03,A person reads a book.,ReadBook,7.524,59.073,View2;View3,SUPPORTED,PENDING
+HOME1_000_C04,A person stands up from the sofa.,Standup,59.123,61.104,View2;View3,SUPPORTED,PENDING

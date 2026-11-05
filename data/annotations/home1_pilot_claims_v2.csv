@@ -1,0 +1,7 @@
+claim_id,claim_text,source_event,source_start_s,source_end_s,evidence_start_s,evidence_end_s,evidence_camera_ids,available_camera_ids,preliminary_label,visibility_reason,review_status
+HOME1_000_C01,A person sits down on the sofa.,Sitdown,3.247,6.133,3.3,6.0,View2;View3,View1;View2;View3;View4;View5,SUPPORTED,clear,PENDING
+HOME1_000_C02,A person opens a book.,ReadBook,7.524,59.073,13.5,15.0,View2;View3,View1;View2;View3;View4;View5,SUPPORTED,clear,PENDING
+HOME1_000_C03,A person reads a book.,ReadBook,7.524,59.073,,,View2;View3,View1;View2;View3;View4;View5,SUPPORTED,needs_temporal_review,PENDING
+HOME1_000_C04,A person stands up from the sofa.,Standup,59.123,61.104,59.3,61.0,View2;View3,View1;View2;View3;View4;View5,SUPPORTED,clear,PENDING
+HOME1_000_C05,"At 30 seconds, the person is standing beside the sofa.",ReadBook,7.524,59.073,29.5,30.5,View2;View3,View1;View2;View3;View4;View5,CONTRADICTED,clear,PENDING
+HOME1_000_C06,"At 30 seconds, the person is reading a book on the sofa.",ReadBook,7.524,59.073,,,,View4;View5,INCONCLUSIVE,out_of_view,PENDING
