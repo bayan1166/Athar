@@ -1,7 +1,0 @@
-claim_id,claim_text,review_start_s,review_end_s,available_camera_ids,reviewer2_label,reviewer2_evidence,reviewer2_reason
-HOME1_000_C01,A person sits down on the sofa.,3.3,6.0,View1;View2;View3;View4;View5,,,
-HOME1_000_C02,A person opens a book.,13.5,15.0,View1;View2;View3;View4;View5,,,
-HOME1_000_C03,A person reads a book.,7.524,59.073,View1;View2;View3;View4;View5,,,
-HOME1_000_C04,A person stands up from the sofa.,59.3,61.0,View1;View2;View3;View4;View5,,,
-HOME1_000_C05,"At 30 seconds, the person is standing beside the sofa.",29.5,30.5,View1;View2;View3;View4;View5,,,
-HOME1_000_C06,"At 30 seconds, the person is reading a book on the sofa.",29.5,30.5,View4;View5,,,
